@@ -1,1 +1,1 @@
-"This is an updated example file." 
+This is the final merged content.
